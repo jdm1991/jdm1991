@@ -6,7 +6,7 @@
 
 - 🖥️ Boolean UK Graduate - Full Stack Software Development
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 I speak English like a native, and a some French
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 I speak English like a native, and some French
 
 - 🇬🇧 🇳🇿 My life has been split between the U.K and New Zealand.
 
