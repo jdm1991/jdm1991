@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">I'm a passionate Web Developer from the United Kingdom</h3>
+<h1 align="center">👋 Hi, I'm Jack</h1>
+<h3 align="center">I'm a Web Developer from the United Kingdom</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdm1991&label=Profile%20views&color=0e75b6&style=flat" alt="jdm1991" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Docker and Tailwind**
+- 📍 I’m currently based in the United Kingdom
 
-- 👨‍💻 All of my projects are available at [jdmiller.uk](jdmiller.uk)
+- 🖥️ Boolean UK Graduate - Full Stack Software Development
 
-- 💬 Ask me about **React**
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 I speak English like a native, and a some French
 
-- 📫 How to reach me **jdmiller1991@outlook.com**
+- 🇬🇧 🇳🇿 My life has been split between the U.K and New Zealand.
 
-- ⚡ Fun fact **I watch cleaning videos on YouTube**
+- 👨‍💻 A selection of my projects are available at: jdmiller.uk
+
+- 📫 You can reach me at
+
+- ⚡ A strange fact about me: I love to watch cleaning videos on YouTube
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
