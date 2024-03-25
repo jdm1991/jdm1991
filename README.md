@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at jdmiller1991@outlook.com
 
-- ⚡ A strange fact about me: I love to watch cleaning videos on YouTube
+- ⚡ A strange fact about me: I used to be a professional skydiver
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
